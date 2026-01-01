@@ -1,0 +1,22 @@
+[2025-12-29 10:14:00] ERROR: The uploaded file is too large. Your server limit is likely 40M. Please try a smaller file.
+[2025-12-29 12:40:49] Request started. Action: create
+[2025-12-29 12:40:49] Creating product: COWS
+[2025-12-29 12:40:49] Processing files...
+[2025-12-29 12:40:49] Image found. Error code: 0
+[2025-12-29 12:40:49] Video found. Error code: 0
+[2025-12-29 12:40:49] Inserting into DB...
+[2025-12-29 12:40:49] Success!
+[2025-12-30 05:45:42] Request started. Action: create
+[2025-12-30 05:45:42] Creating product: COWS
+[2025-12-30 05:45:42] Processing files...
+[2025-12-30 05:45:42] Image found. Error code: 0
+[2025-12-30 05:45:42] Video found. Error code: 0
+[2025-12-30 05:45:42] Inserting into DB...
+[2025-12-30 05:45:42] Success!
+[2025-12-30 05:50:43] Request started. Action: create
+[2025-12-30 05:50:43] Creating product: RAPE
+[2025-12-30 05:50:43] Processing files...
+[2025-12-30 05:50:43] Image found. Error code: 0
+[2025-12-30 05:50:43] Video found. Error code: 0
+[2025-12-30 05:50:43] Inserting into DB...
+[2025-12-30 05:50:43] Success!

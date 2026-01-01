@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agricultural Market | Muwowo Company</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/landing.css">
+    <!-- Main JS -->
+    <script src="assets/js/main.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-transparent position-absolute w-100 py-4" style="z-index: 10;">
+    <div class="container">
+        <a class="navbar-brand fw-bold fs-3" href="index.php">
+            <i class="fas fa-leaf text-light me-2"></i> Muwowo <span class="fw-light">Company</span>
+        </a>
+        <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto gap-3">
+                <li class="nav-item"><a class="nav-link text-white fw-semibold" href="#features">Innovation</a></li>
+                <li class="nav-item"><a class="nav-link text-white fw-semibold" href="#challenges">Challenges</a></li>
+                <li class="nav-item"><a class="btn btn-outline-light rounded-pill px-4" href="login.php">Sign In</a></li>
+                <li class="nav-item"><a class="btn btn-ingoude" href="register.php">Get Started</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>

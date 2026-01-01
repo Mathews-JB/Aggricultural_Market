@@ -1,0 +1,8 @@
+{
+    "name": "mathews-jb/agrimarket",
+    "description": "Agricultural Market Management System",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    }
+}
